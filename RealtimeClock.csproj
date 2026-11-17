@@ -1,0 +1,10 @@
+<Project Sdk="NeoRune.Sdk/1.0.0">
+  <PropertyGroup>
+    <NeoRuneModName>RealtimeClock</NeoRuneModName>
+    <NeoRuneModTitle>Realtime Clock Overlay</NeoRuneModTitle>
+    <Version>1.0.0</Version>
+    <NeoRuneModAuthor>X1miyaStudio</NeoRuneModAuthor>
+    <NeoRuneModAuthorUrl>https://github.com/X1miyaStudio</NeoRuneModAuthorUrl>
+    <NeoRuneModDescription>Customizable real-time clock overlay for Minecraft Dungeons II.\nSupports 12h/24h formats, seconds, screen positions, colors, and Blueprint Loader 2.0+ settings.</NeoRuneModDescription>
+  </PropertyGroup>
+</Project>
