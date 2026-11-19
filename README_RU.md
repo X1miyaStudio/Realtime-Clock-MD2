@@ -2,13 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:00FF88&height=180&section=header&text=Realtime%20Clock%20Overlay&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%" alt="Realtime Clock Overlay Banner" />
 
+[![Game](https://img.shields.io/badge/Minecraft_Dungeons_II-UE_5.6-00FF88?style=for-the-badge)](https://github.com/X1miyaStudio/Realtime-Clock-MD2)
+[![Release](https://img.shields.io/badge/GitHub_Release-v1.0.0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X1miyaStudio/Realtime-Clock-MD2/releases/tag/v1.0.0)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-dungeons-II/mods/realtime-clock-overlay)
+![Loader](https://img.shields.io/badge/Blueprint_Loader-2.0%2B-blueviolet?style=for-the-badge)
+[![SDK](https://img.shields.io/badge/Built_with-NeoRune-00BFFF?style=for-the-badge)](https://github.com/X1miyaStudio/Realtime-Clock-MD2)
+[![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
+
 <p align="center">
   <b>Настраиваемый оверлей реального времени для Minecraft Dungeons II.</b><br/>
   Оформлен в стиле родного интерфейса игры, поддерживает 12ч/24ч форматы, секунды, выбор позиции и меню настроек Blueprint Loader 2.0+.
 </p>
 
 <p align="center">
-  <a href="README.md">🇬🇧 English documentation</a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Language-English-0D1117?style=flat-square&logo=googletranslate&logoColor=white" alt="English Version" />
+  </a>
+  <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-00FF88?style=flat-square" alt="Русский" />
 </p>
 
 </div>
